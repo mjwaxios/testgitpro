@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mjwaxios/testgitpro#readme"
   "publishConfig": {
-	  "@mjwaxios:testgitpro.git" : https://npm.pkg.github.com"
+	  "@mjwaxios:testgitpro.git" : "https://npm.pkg.github.com"
   }
 }
