@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/mjwaxios/testgitpro/issues"
   },
-  "homepage": "https://github.com/mjwaxios/testgitpro#readme"
+  "homepage": "https://github.com/mjwaxios/testgitpro#readme",
   "publishConfig": {
 	  "mjwaxios:testgitpro.git" : "https://npm.pkg.github.com"
   }
